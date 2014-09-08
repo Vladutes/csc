@@ -1,7 +1,8 @@
 csc
 ===
 
-Computer Science Club 
+Computer Science Club
+===
 
 Rules:
 
